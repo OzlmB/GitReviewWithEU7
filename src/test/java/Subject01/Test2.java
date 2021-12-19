@@ -1,0 +1,7 @@
+package Subject01;
+
+public class Test2 {
+    public static void main(String[] args) {
+        System.out.println("We have some changes");
+    }
+}
